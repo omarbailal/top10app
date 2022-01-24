@@ -2,4 +2,4 @@
 
 landing page 
 
-![Screenshot (550)](https://user-images.githubusercontent.com/52482256/150700202-7221d4ac-6709-4e4e-a95c-cb78e1f0de37.png)
+![image](https://user-images.githubusercontent.com/52482256/150709858-7cf2389b-c1f7-4dc3-a793-a9b008e596dd.png)
